@@ -12,6 +12,7 @@ public class PlayPointApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(PlayPointApplication.class.getResource("catalogo-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        //Titutlo
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
