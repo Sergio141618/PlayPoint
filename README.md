@@ -18,7 +18,7 @@ La aplicación está planteada para permitir en un futuro:
 - Git / GitHub  
 
 ## Autor
-Sergio Sabater Garcia
+Sergio Sabater García
 
 ## Fecha
 15/02/2026
